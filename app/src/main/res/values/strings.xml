@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="prefrances">Prefrances</string>
+    <string name="defaultPrefrance">popular</string>
+    <string name="key">prefrances</string>
+    <string name="pref_popular">popular</string>
+    <string name="pref_most">most_rated</string>
+    <string name="most_popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="mark_as_fevorite">Mark as fevorite</string>
+    <string name="trailer">Trailer</string>
+    <string name="overview">Overview</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="favorite">Favorite</string>
+</resources>
